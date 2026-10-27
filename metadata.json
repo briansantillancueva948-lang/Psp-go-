@@ -1,0 +1,6 @@
+{
+  "name": "PPSSPP",
+  "description": "Emulador PPSSPP optimizado para Android con intro original de PSP, interfaz XMB auténtica, controles táctiles y ajustes avanzados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
